@@ -32,7 +32,7 @@ const Hero = () => {
         </div>
 
       <div className="relative shadow-black/5 shadow-none rounded-large">
-        <img src='src/assets/images/hero.png' alt="" className='relative  shadow-black/5 data-[loaded=true]:opacity-100 shadow-none transition-transform-opacity motion-reduce:transition-none duration-300! z-0 -mr-16 max-w-[850px] self-end rounded-xl pt-10 max-sm:scale-75' />
+        <img src='/images/hero.png' alt="" className='relative  shadow-black/5 data-[loaded=true]:opacity-100 shadow-none transition-transform-opacity motion-reduce:transition-none duration-300! z-0 -mr-16 max-w-[850px] self-end rounded-xl pt-10 max-sm:scale-75' />
       </div>
    </div>
 

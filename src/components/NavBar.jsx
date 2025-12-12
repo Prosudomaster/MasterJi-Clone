@@ -8,7 +8,7 @@ const NavBar = () => {
                         <ul className='flex gap-4 h-full flex-row flex-nowrap items-center data-[justify=start]:justify-start data-[justify=start]:grow data-[justify=start]:basis-0 data-[justify=center]:justify-center data-[justify=end]:justify-end data-[justify=end]:grow  data-[justify=end]:basis-0'>
                 <div className="">
                     <a className='mt-[15px] flex items-center gap-1.5 text-[24px] lg:px-[9px] undefined' href="/">
-                        <img className='size-6' src="src/assets/images/masterji-mascot-white.svg" alt="" />
+                        <img className='size-6' src="/images/masterji-mascot-white.svg" alt="" />
                             <p className='font-montserrat font-semibold text-white'>
                     Master
                     <span className='font-bold text-orange-500 dark:text-orange-400'>
